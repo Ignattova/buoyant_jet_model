@@ -1,2 +1,4 @@
 # buoyant_jet_model
-Mathematical modeling of a buoyant jet in stratified medium
+Mathematical modeling of a buoyant jet in а stratified medium
+
+This project investigates the mathematical modeling of key hydrodynamic processes that occur during submarine discharge into coastal waters, where the effluent density differs from that of the ambient water. The primary focus is on the physical processes governing the initial mixing and dilution of the discharged jet, which play a critical role in limiting environmental impacts on marine ecosystems. A one-dimensional (1D) integral plume model is implemented, based on a system of three ordinary differential equations representing the conservation of mass flux (Q), momentum flux (M), and buoyancy flux (B). The model accounts for turbulent entrainment of the ambient water and the effects of vertical density stratification in the seawater, using the Boussinesq approximation. The study provides a theoretical basis for future analysis of the overall mixing processes between wastewater and seawater.
